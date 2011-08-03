@@ -1,0 +1,12 @@
+.rvmrc
+.bundle
+.DS_Store
+.sass-cache/
+log/*
+tmp/*
+db/*.sqlite3
+db/schema.rb
+config/database.yml
+public/index.html
+public/system/*
+public/assets/*
