@@ -21,5 +21,10 @@ describe Link do
       subject.stub :id => 1234
       subject.to_short.should == "16i"
     end
+    
+    it "overrides #to_param" do
+      subject.stub :id => 1234
+      subject.to_param.should == subject.to_short
+    end
   end
 end

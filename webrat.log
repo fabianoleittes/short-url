@@ -1,0 +1,63 @@
+# Logfile created on 2011-08-04 16:25:43 -0300 by logger.rb/25413
+REQUESTING PAGE: GET /links/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /links with {"utf8"=>"✓", "link"=>{"url"=>"http://simplesideias.com.br"}, "commit"=>"Shorten"} and HTTP headers {"HTTP_REFERER"=>"/links/new"}
+REQUESTING PAGE: GET http://www.example.com/links/1 with {} and HTTP headers {"HTTP_REFERER"=>"/links"}
+REQUESTING PAGE: GET /links/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /links with {"utf8"=>"✓", "link"=>{"url"=>"http://simplesideias.com.br"}, "commit"=>"Shorten"} and HTTP headers {"HTTP_REFERER"=>"/links/new"}
+REQUESTING PAGE: GET http://www.example.com/links/1 with {} and HTTP headers {"HTTP_REFERER"=>"/links"}
+REQUESTING PAGE: GET /links/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /links with {"utf8"=>"✓", "link"=>{"url"=>"http://simplesideias.com.br"}, "commit"=>"Shorten"} and HTTP headers {"HTTP_REFERER"=>"/links/new"}
+REQUESTING PAGE: GET http://www.example.com/links/1 with {} and HTTP headers {"HTTP_REFERER"=>"/links"}
+REQUESTING PAGE: GET /links/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /links with {"utf8"=>"✓", "link"=>{"url"=>"http://simplesideias.com.br"}, "commit"=>"Shorten"} and HTTP headers {"HTTP_REFERER"=>"/links/new"}
+REQUESTING PAGE: GET http://www.example.com/links/1 with {} and HTTP headers {"HTTP_REFERER"=>"/links"}
+REQUESTING PAGE: GET /links/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /links with {"utf8"=>"✓", "link"=>{"url"=>"http://about.me/fabianoleite"}, "commit"=>"Shorten"} and HTTP headers {"HTTP_REFERER"=>"/links/new"}
+REQUESTING PAGE: GET http://www.example.com/links/1 with {} and HTTP headers {"HTTP_REFERER"=>"/links"}
+REQUESTING PAGE: GET /links/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /links with {"utf8"=>"✓", "link"=>{"url"=>"http://about.me/fabianoleite"}, "commit"=>"Shorten"} and HTTP headers {"HTTP_REFERER"=>"/links/new"}
+REQUESTING PAGE: GET http://www.example.com/links/1 with {} and HTTP headers {"HTTP_REFERER"=>"/links"}
+REQUESTING PAGE: GET /links/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /links with {"utf8"=>"✓", "link"=>{"url"=>"http://about.me/fabianoleite"}, "commit"=>"Shorten"} and HTTP headers {"HTTP_REFERER"=>"/links/new"}
+REQUESTING PAGE: GET http://www.example.com/links/1 with {} and HTTP headers {"HTTP_REFERER"=>"/links"}
+REQUESTING PAGE: GET /links/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /links with {"utf8"=>"✓", "link"=>{"url"=>"http://about.me/fabianoleite"}, "commit"=>"Shorten"} and HTTP headers {"HTTP_REFERER"=>"/links/new"}
+REQUESTING PAGE: GET http://www.example.com/links/1 with {} and HTTP headers {"HTTP_REFERER"=>"/links"}
+REQUESTING PAGE: GET /1 with {} and HTTP headers {}
+REQUESTING PAGE: GET /links/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /links with {"utf8"=>"✓", "link"=>{"url"=>"http://about.me/fabianoleite"}, "commit"=>"Shorten"} and HTTP headers {"HTTP_REFERER"=>"/links/new"}
+REQUESTING PAGE: GET http://www.example.com/links/1 with {} and HTTP headers {"HTTP_REFERER"=>"/links"}
+REQUESTING PAGE: GET /links/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /links with {"utf8"=>"✓", "link"=>{"url"=>"http://about.me/fabianoleite"}, "commit"=>"Shorten"} and HTTP headers {"HTTP_REFERER"=>"/links/new"}
+REQUESTING PAGE: GET http://www.example.com/links/1 with {} and HTTP headers {"HTTP_REFERER"=>"/links"}
+REQUESTING PAGE: GET /links/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /links with {"utf8"=>"✓", "link"=>{"url"=>"http://about.me/fabianoleite"}, "commit"=>"Shorten"} and HTTP headers {"HTTP_REFERER"=>"/links/new"}
+REQUESTING PAGE: GET http://www.example.com/links/1 with {} and HTTP headers {"HTTP_REFERER"=>"/links"}
+REQUESTING PAGE: GET /links/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /links with {"utf8"=>"✓", "link"=>{"url"=>"http://about.me/fabianoleite"}, "commit"=>"Shorten"} and HTTP headers {"HTTP_REFERER"=>"/links/new"}
+REQUESTING PAGE: GET http://www.example.com/links/1 with {} and HTTP headers {"HTTP_REFERER"=>"/links"}
+REQUESTING PAGE: GET /links/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /links with {"utf8"=>"✓", "link"=>{"url"=>"http://about.me/fabianoleite"}, "commit"=>"Shorten"} and HTTP headers {"HTTP_REFERER"=>"/links/new"}
+REQUESTING PAGE: GET http://www.example.com/links/1 with {} and HTTP headers {"HTTP_REFERER"=>"/links"}
+REQUESTING PAGE: GET /links/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /links with {"utf8"=>"✓", "link"=>{"url"=>"http://about.me/fabianoleite"}, "commit"=>"Shorten"} and HTTP headers {"HTTP_REFERER"=>"/links/new"}
+REQUESTING PAGE: GET http://www.example.com/links/1 with {} and HTTP headers {"HTTP_REFERER"=>"/links"}
+REQUESTING PAGE: GET /links/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /links with {"utf8"=>"✓", "link"=>{"url"=>"http://about.me/fabianoleite"}, "commit"=>"Shorten"} and HTTP headers {"HTTP_REFERER"=>"/links/new"}
+REQUESTING PAGE: GET http://www.example.com/links/1 with {} and HTTP headers {"HTTP_REFERER"=>"/links"}
+REQUESTING PAGE: GET /links/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /links with {"utf8"=>"✓", "link"=>{"url"=>"http://about.me/fabianoleite"}, "commit"=>"Shorten"} and HTTP headers {"HTTP_REFERER"=>"/links/new"}
+REQUESTING PAGE: GET http://www.example.com/links/1 with {} and HTTP headers {"HTTP_REFERER"=>"/links"}
+REQUESTING PAGE: GET /links/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /links with {"utf8"=>"✓", "link"=>{"url"=>"http://about.me/fabianoleite"}, "commit"=>"Shorten"} and HTTP headers {"HTTP_REFERER"=>"/links/new"}
+REQUESTING PAGE: GET http://www.example.com/links/1 with {} and HTTP headers {"HTTP_REFERER"=>"/links"}
+REQUESTING PAGE: GET /links/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /links with {"utf8"=>"✓", "link"=>{"url"=>"http://about.me/fabianoleite"}, "commit"=>"Shorten"} and HTTP headers {"HTTP_REFERER"=>"/links/new"}
+REQUESTING PAGE: GET http://www.example.com/links/1 with {} and HTTP headers {"HTTP_REFERER"=>"/links"}
+REQUESTING PAGE: GET /links/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /links with {"utf8"=>"✓", "link"=>{"url"=>"http://about.me/fabianoleite"}, "commit"=>"Shorten"} and HTTP headers {"HTTP_REFERER"=>"/links/new"}
+REQUESTING PAGE: GET http://www.example.com/links/1 with {} and HTTP headers {"HTTP_REFERER"=>"/links"}
+REQUESTING PAGE: GET /links/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /links with {"utf8"=>"✓", "link"=>{"url"=>"http://about.me/fabianoleite"}, "commit"=>"Shorten"} and HTTP headers {"HTTP_REFERER"=>"/links/new"}
+REQUESTING PAGE: GET http://www.example.com/links/1 with {} and HTTP headers {"HTTP_REFERER"=>"/links"}
+REQUESTING PAGE: GET /1 with {} and HTTP headers {}

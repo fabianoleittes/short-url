@@ -1,0 +1,7 @@
+Factory.sequence :url do |i|
+  "http://example.com/#{i}.html"
+end
+
+Factory.define :link do |f|
+  f.url { Factory.next(:url) }
+end

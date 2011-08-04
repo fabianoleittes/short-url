@@ -22,7 +22,7 @@ describe LinksController do
     end
   end
 
-  describe "Post" 'create' do
+  describe "POST" 'create' do
     before do
       Link.stub new: link
     end
@@ -64,6 +64,15 @@ describe LinksController do
         post :create
         assigns[:link].should eq(link)
       end
+    end
+  end
+  describe "GET 'expand'" do
+    let(:link) { Factory(:link) }
+
+    it "increases visit counting" do
+      get :expand, shortlink: link.to_param
+      link.reload
+      link.visits.should == 1
     end
   end
 end
