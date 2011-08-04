@@ -3,6 +3,7 @@
   <head>
     <title><%= content_for?(:title) ? yield(:title) : "Short" %></title>
     <%= stylesheet_link_tag "application" %>
+	<%= css3buttons_stylesheets :include_reset => false %>
     <%= javascript_include_tag :defaults %>
     <%= csrf_meta_tag %>
     <%= yield(:head) %>

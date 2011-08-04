@@ -11,7 +11,7 @@ group :assets do
 end
 
 gem 'jquery-rails'
-gem 'nifty-generators', :group => :development
+gem 'css3buttons'
 
 group :development, :test do
   gem 'rspec-rails'
@@ -22,4 +22,5 @@ group :development, :test do
   gem 'guard-rspec'
   gem 'growl'
   gem 'ruby-debug19', :require => 'ruby-debug'
+  gem 'nifty-generators'
 end
