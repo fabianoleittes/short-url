@@ -18,6 +18,7 @@ group :development, :test do
   gem 'webrat'
   gem 'factory_girl_rails', '>= 1.1.rc1'
   gem 'turn', :require => false
+  gem 'rb-fsevent', :require => false if RUBY_PLATFORM =~ /darwin/i
   gem 'guard-rspec'
   gem 'growl'
   gem 'ruby-debug19', :require => 'ruby-debug'
